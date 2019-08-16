@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Data count="12">
-  <trial name="Trial user" login="555555" hwid="35729733" />
   <player name="ImCytox" login="-258685336" hwid="-15387293" />
   <player name="pryseven" login="450656681" hwid="-1329111791" />
   <player name="Fireflash" login="1808440783" hwid="890266788" />
@@ -16,4 +15,5 @@
   <player name="8MadCat8" login="-1895482273" hwid="1506549032"></player>
   <player name="SgtBlackWood" login="83426361" hwid="733670790"></player>
   <player name="Nuneax" login="-721675094" hwid="490348770"></player>
+  <trial name="Trial user" login="555555" hwid="35729733" />
 </Data>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Data count="12">
+<Data count="21">
   <player name="ImCytox" login="-258685336" hwid="-594635259" />
   <player name="pryseven" login="450656681" hwid="-1329111791" />
   <player name="Fireflash" login="1808440783" hwid="890266788" />
@@ -16,5 +16,9 @@
   <player name="SgtBlackWood" login="83426361" hwid="733670790"></player>
   <player name="Nuneax" login="-721675094" hwid="490348770"></player>
   <player name="DarkPhoenix" login="1856772918" hwid="-834236185"></player>
+  <free name="Ugly" login="-1211193406" hwid="-1018069587"></free>
+  <free name="Nanix " login="180773959 " hwid="2053675180"></free>
+  <free name="Yeet" login="-2134659246" hwid="1467210682" />
+  <free name="Trashmaster_J" login="-279698268" hwid="1637565031"></free>
   <trials name="Trial user" login="3876212" hwid="-35729733" />
 </Data>

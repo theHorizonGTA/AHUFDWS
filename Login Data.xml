@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Data count="30">
+<Data count="32">
 	<player name="ImCytox" login="-258685336" hwid="-594635259" />
 	<player name="pryseven" login="450656681" hwid="-1329111791" />
 	<player name="Fireflash" login="1808440783" hwid="890266788" />
@@ -29,5 +29,6 @@
 	<free name="NTGSunko089" login="1313962985" hwid="-1229382111" />
 	<free name="randombest" login="1514917264" hwid="-694450329" />
 	<free name="liekpie" login="603774028" hwid="2128971226" />
+	<free name="Nightey3s" login="-1997245099" hwid="1136358084" />
 	<trials name="Trial user" login="3876212" hwid="-35729733" />
 </Data>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data count="57">
-	<player name="ImCytox" login="-258685336" hwid="-594635259" activated="1" expires"1914410850" />
+	<player name="ImCytox" login="-258685336" hwid="-594635259" />
 	<player name="pryseven" login="450656681" hwid="-1329111791" />
 	<player name="Fireflash" login="1808440783" hwid="890266788" />
 	<player name="Cyon" login="686557144" hwid="1122726511" />
@@ -68,5 +68,6 @@
 	<free name="lunar" login="158628069" hwid="2076276680" />
 	<free name="DangGarang" login="-477701907" hwid="1252426401" />
 	<free name="katjus" login="1381712851" hwid="673515852" />
-	<free name="Bliswier1" login="230964035" hwid="-197040969" />	
+	<free name="Bliswier1" login="230964035" hwid="-197040969" />
+	<trials name="Trial user" login="3876212" hwid="-35729733" />
 </Data>

@@ -2,7 +2,7 @@
 <Data online="1" changelog="31.08.19 :
 -New loader v. 1.3 released">
 	<cheat name="Cherax" version="2.11" status="1" Info="">1: undetected 2: unknown 3: detected</cheat>
-	<cheat name="Cherax latest" version="2.11" status="1" Info="Currently the same
-like Cherax">1: undetected 2: unknown 3: detected</cheat>
+	<cheat name="Cherax latest" version="2.12" status="2 Info="Fixed some bugs,
+- added stealth 10 mil">1: undetected 2: unknown 3: detected</cheat>
 	<cheat name="Cherax recovery" version="1.0" status="1" Info="Recovery only">1: undetected 2: unknown 3: detected</cheat>
 </Data>

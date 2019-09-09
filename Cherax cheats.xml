@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Data online="1" changelog="05.09.19: -Some small bug fixes
+<Data online="0" changelog="05.09.19: -Some small bug fixes
 01.09.19: -Cherax latest updated
 31.08.19: -New Version released">
 	<cheat name="Cherax" version="2.14" status="1" Info="">1: undetected 2: unknown 3: detected 4: disabled 5: hide</cheat>

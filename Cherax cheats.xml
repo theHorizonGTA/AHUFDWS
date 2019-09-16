@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Data online="1" changelog="updated to 2.17">
+<Data online="1" changelog="Cherax 2.18 released">
 	<cheat name="Cherax" version="2.18" status="1" Info="Visuals updated">1: undetected 2: unknown 3: detected 4: disabled 5: hide</cheat>
 	<cheat name="Cherax latest" version="2.12" status="4" Info="">1: undetected 2: unknown 3: detected</cheat>
 	<cheat name="Cherax recovery" version="1.0" status="4" Info="">1: undetected 2: unknown 3: detected</cheat>

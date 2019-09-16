@@ -36,7 +36,7 @@
 	<free name="liekpie" login="603774028" hwid="2128971226" activated="1" expires="1572526050" />
 	<free name="Nightey3s" login="-1997245099" hwid="1136358084" activated="1" expires="1572526050" />
 	<free name="balbazar" login="-1625366904" hwid="-1477946251" activated="1" expires="1572526050" />
-	<free name="snaikoo" login="-412797679" hwid="-132655212" activated="1" expires="1572526050" />
+	<free name="snaikoo" login="-412797679" hwid="-1882770056" activated="1" expires="1572526050" />
 	<free name="IM_Nxva" login="1852489811" hwid="777842744" activated="1" expires="1572526050" />
 	<free name="LEDE" login="-1282711973" hwid="1471203433" activated="1" expires="1572526050" />
 	<free name="Radry" login="82454445" hwid="841816360" activated="1" expires="1572526050" />
@@ -138,7 +138,7 @@
 	<free name="coinstore" login="-385940739" hwid="-859489215" activated="1" expires="1572526050" />
 	<free name="Morfeosh" login="1830268924" hwid="-1277642247" activated="1" expires="1572526050" />
 	<free name="PoTaToKiD69" login="2104680529" hwid="-779270026" activated="1" expires="1572526050" />
-	<free name="EasyNike" login="901657180" hwid="1983871906" activated="1" expires="1572526050" />
+	<free name="EasyNike" login="901657180" hwid="1983871906" activated="0" expires="1572526050" />
 	<free name="Slartathes" login="-1939768" hwid="-1054432132" activated="1" expires="1572526050" />
 	<free name="NegativeGaming" login="842895797" hwid="-623871295" activated="1" expires="1572526050" />
 	<free name="Rambo" login="1392238524" hwid="1482545125" activated="1" expires="1572526050" />
@@ -182,4 +182,8 @@
 	<free name="Gamefreak12" login="1816333987" hwid="-689211062" activated="1" expires="1572526050" />
 	<free name="wolvesrgoats" login="298856477" hwid="-1700130709" activated="1" expires="1572526050" />
 	<free name="Alijamal786" login="-156270677" hwid="1605640430" activated="1" expires="1572526050" />
+	<free name="TheDakrbanana" login="1244643721" hwid="-209259671" activated="1" expires="1572526050" />
+	<free name="KE_Maverick" login="1914387328" hwid="-694450329" activated="1" expires="1572526050" />
+	<free name="wemaster" login="-1235956817" hwid="872492917" activated="1" expires="1572526050" />
+	<free name="YoungSnak" login="-1070772780" hwid="1577247819" activated="1" expires="1572526050" />
 </Data>

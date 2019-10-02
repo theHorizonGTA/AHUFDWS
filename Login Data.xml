@@ -26,7 +26,8 @@
 	<player name="Bylson1" login="1786420123" hwid="653151276" activated="1" expires="2147483647" />
 	<player name="DarkKnight" login="1391561144" hwid="-1880477802" activated="1" expires="2147483647" />
 	<player name="zorammusic" login="-1232067295" hwid="-1713862456" activated="1" expires="2147483647" />
-	<player name="PimpMannen55" login="-201889798" hwid="227446878" activated="1" expires="2147483647" />
+	<player name="Mockisen" login="1659942578" hwid="562844541" activated="1" expires="2147483647" />
+	<player name="snaikoo" login="-412797679" hwid="-1882770056" activated="1" expires="2147483647" />
 	<free name="Ugly" login="-1211193406" hwid="-1018069587" activated="1" expires="1572526050" />
 	<free name="Nanix" login="180773959" hwid="2053675180" activated="1" expires="1572526050" />
 	<free name="Trashmaster_J" login="-279698268" hwid="1637565031" activated="1" expires="1572526050" />
@@ -41,7 +42,6 @@
 	<free name="liekpie" login="603774028" hwid="2128971226" activated="1" expires="1572526050" />
 	<free name="Nightey3s" login="-1796042027" hwid="112851291" activated="1" expires="1572526050" />
 	<free name="balbazar" login="-1625366904" hwid="-1477946251" activated="1" expires="1572526050" />
-	<free name="snaikoo" login="-412797679" hwid="-1882770056" activated="1" expires="1572526050" />
 	<free name="IM_Nxva" login="1852489811" hwid="777842744" activated="1" expires="1572526050" />
 	<free name="LEDE" login="-1282711973" hwid="1471203433" activated="1" expires="1572526050" />
 	<free name="Radry" login="82454445" hwid="841816360" activated="1" expires="1572526050" />
@@ -247,14 +247,14 @@
 	<free name="s1ck" login="-1874619807" hwid="2142576203" activated="1" expires="1572526050" />
 	<free name="valkgh" login="-1140738036" hwid="-1775166217" activated="1" expires="1572526050" />
 	<free name="toxicotv" login="601575995" hwid="-1611569980" activated="1" expires="1572526050" />
-	<free name="Direfull59" login="-1797668808" hwid="-900189309" activated="1" expires="1572526050" />
+	<free name="Direfull59" login="-1797668808" hwid="-1209188039" activated="1" expires="1572526050" />
 	<free name="NewUser69156" login="1446544259" hwid="94842820" activated="1" expires="1572526050" />
 	<free name="zacOGK" login="896239552" hwid="342573701" activated="1" expires="1572526050" />
 	<free name="BirtSkie" login="602925978" hwid="2003883993" activated="1" expires="1572526050" />
 	<free name="ItsYuZa" login="576023848" hwid="-12700014" activated="1" expires="1572526050" />
 	<free name="willywijaya" login="572134615" hwid="-137959037" activated="1" expires="1572526050" />
 	<free name="grandinicolo04" login="-762607130" hwid="-1893849090" activated="1" expires="1572526050" />
-	<free name="Uwe1990" login="-1435138721" hwid="600024490" activated="1" expires="1572526050" />
+	<free name="Uwe1990" login="-1435138721" hwid="600024490" activated="0" expires="1572526050" />
 	<free name="TAGGEN" login="-1726425499" hwid="274465916" activated="1" expires="1572526050" />
 	<free name="ibrahimeren11" login="-1488019803" hwid="1838572194" activated="1" expires="1572526050" />
 	<free name="khaloda" login="699744831" hwid="-390398724" activated="1" expires="1572526050" />
@@ -284,5 +284,10 @@
 	<free name="naoufalexe" login="-428758291" hwid="1791647814" activated="1" expires="1572526050" />
 	<free name="Wundii" login="1888192975" hwid="2142728173" activated="1" expires="1572526050" />
 	<free name="Sauccy_ranCH" login="445234212" hwid="33349409" activated="1" expires="1572526050" />
+	<free name="Ragger" login="836669293" hwid="-1277132175" activated="1" expires="1572526050" />
+	<free name="SkyKING" login="1140901685" hwid="1200679958" activated="1" expires="1572526050" />
+	<free name="MacacoSensual" login="1680460272" hwid="-1746049388" activated="1" expires="1572526050" />
+	<free name="Ragger" login="836669293" hwid="-1277132175" activated="1" expires="1572526050" />
+	<free name="Ragger" login="836669293" hwid="-1277132175" activated="1" expires="1572526050" />
 	<free name="Ragger" login="836669293" hwid="-1277132175" activated="1" expires="1572526050" />
 </Data>																																		

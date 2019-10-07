@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data online="1" changelog="Added new features">
-	<cheat name="Cherax" version="2.22" status="1" Info="Remade Spawner">1: undetected 2: unknown 3: detected 4: disabled 5: hide</cheat>
+	<cheat name="Cherax" version="2.22" status="5" Info="Remade Spawner">1: undetected 2: unknown 3: detected 4: disabled 5: hide</cheat>
 	<cheat name="Cherax latest" version="2.23" status="1" Info="30 minutes timeout
 after around 70 mil">1: undetected 2: unknown 3: detected</cheat>
 	<cheat name="Cherax recovery" version="1.0" status="5" Info="">1: undetected 2: unknown 3: detected</cheat>

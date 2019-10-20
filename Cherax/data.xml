@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data version="200" server="1" status="1">
   <Descriptions>
-    <Text wrappos="250" log="This is quick test. This is quick test This is quick test This is quick test This is quick test\n\n\n3lines skipped"></Text>
+    <Text wrappos="250" log="This is quick test. This is quick test This is quick test
+                             This is quick test This is quick test\t\t\t3lines skipped"></Text>
     <Text wrappos="250" log="premium description"></Text>
   </Descriptions>
   <Cheats premiumID="1" betaID="2">

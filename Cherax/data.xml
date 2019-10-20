@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data version="200" server="1" status="1">
-  <Changelog>
+  <Descriptions>
     <Text wrappos="250" log="This is quick test. This is quick test This is quick test This is quick test This is quick test"></Text>
     <Text wrappos="250" log="premium description"></Text>
-  </Changelog>
+  </Descriptions>
   <Cheats premiumID="1" betaID="2">
     <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.24" enabled="1" defaultAccess="1" show="1"></cheat>
     <cheat index="1" urlExt="CheraxPremium.dll" name="Cherax Premium" version="2.25" enabled="1" defaultAccess="0" show="1"></cheat>

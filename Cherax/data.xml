@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Data version="200" server="1" status="1" disableCherax="0">
+<Data version="200" server="1" status="1">
   <Changelog>
     <Text wrappos="250" log="This is quick test. This is quick test This is quick test This is quick test This is quick test "></Text>
   </Changelog>

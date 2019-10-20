@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<Data server="1" status="1">
+  <Changelog server="1" status="1">
+    <Text wrappos="250" log="This is quick test. This is quick test This is quick test This is quick test This is quick test "></Text>
+  </Changelog>
+  <Cheats server="1" status="1">
+    <cheat name="Cherax" version="2.24" enabled="1"></cheat>
+	  <cheat name="Cherax Premium" version="2.24" enabled="1"></cheat>
+    <cheat name="Cherax Beta" version="2.25" enabled="1"></cheat>
+  </Cheats>
+  <Users server="1" status="1">
+    <user name="ImCytox" blocked="0" premium="1" beta="1"></user>
+	  <user name="Marc" blocked="0" premium="1" beta="1"></user>
+  </Users>
+</Data>

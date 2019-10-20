@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data version="200" server="1" status="1">
   <Descriptions>
-    <Text wrappos="250" log="This is quick test. This is quick test This is quick test
-                             This is quick test This is quick test\t\t\t3lines skipped"></Text>
+    <Text wrappos="250" log="Cherax 2.25 coming soon:
+- improved protections
+- improved stability
+- fixed some bugs
+- added new features
+
+Updated Cherax loader to 2.0:
+- improved security
+- fixed issues with the old loader
+- offers new options"></Text>
     <Text wrappos="250" log="premium description"></Text>
   </Descriptions>
   <Cheats premiumID="1" betaID="2">

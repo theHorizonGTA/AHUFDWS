@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data version="200" server="1" status="1">
   <Descriptions>
-    <Text wrappos="250" log="Cherax 2.25 coming soon:
+    <Text wrappos="250" log="About Cherax Beta:
+- currently only available for donators, friends and staff
+- including all the new staff of 2.25
+- we will might do a giveaway to get access
+
+Cherax 2.25 coming soon:
 - improved protections
 - improved stability
 - fixed some bugs
 - added new features
 
 Updated Cherax loader to 2.0:
+- new design
 - improved security
 - fixed issues with the old loader
 - offers new options"></Text>
@@ -15,7 +21,7 @@ Updated Cherax loader to 2.0:
   </Descriptions>
   <Cheats premiumID="1" betaID="2">
     <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.24" enabled="1" defaultAccess="1" show="1"></cheat>
-    <cheat index="1" urlExt="CheraxPremium.dll" name="Cherax Premium" version="2.25" enabled="1" defaultAccess="0" show="1"></cheat>
+    <cheat index="1" urlExt="CheraxPremium.dll" name="Cherax Premium" version="2.25" enabled="0" defaultAccess="0" show="1"></cheat>
     <cheat index="2" urlExt="CheraxBeta.dll" name="Cherax Beta" version="2.25" enabled="1"  defaultAccess="0" show="1"></cheat>
   </Cheats>
   <Users>

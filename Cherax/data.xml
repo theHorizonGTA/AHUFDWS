@@ -3,10 +3,10 @@
   <Changelog>
     <Text wrappos="250" log="This is quick test. This is quick test This is quick test This is quick test This is quick test "></Text>
   </Changelog>
-  <Cheats>
-    <cheat name="Cherax" version="2.24" enabled="1" show="1"></cheat>
-    <cheat name="Cherax Premium" version="2.25" enabled="1" show="1"></cheat>
-    <cheat name="Cherax Beta" version="2.25" enabled="1" show="1"></cheat>
+  <Cheats premiumID="1" betaID="2">
+    <cheat index="0" name="Cherax" version="2.24" enabled="1" defaultAccess="1" show="1"></cheat>
+    <cheat index="1" name="Cherax Premium" version="2.25" enabled="1" defaultAccess="0" show="1"></cheat>
+    <cheat index="2" name="Cherax Beta" version="2.25" enabled="1"  defaultAccess="0" show="1"></cheat>
   </Cheats>
   <Users>
     <user name="ImCytox" login="17327" hwid="7237" blocked="0" premium="1" beta="1"></user>

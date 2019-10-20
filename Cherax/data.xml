@@ -4,9 +4,9 @@
     <Text wrappos="250" log="This is quick test. This is quick test This is quick test This is quick test This is quick test "></Text>
   </Changelog>
   <Cheats premiumID="1" betaID="2">
-    <cheat index="0" urlExt="Cherax" name="Cherax" version="2.24" enabled="1" defaultAccess="1" show="1"></cheat>
-    <cheat index="1" urlExt="CheraxPremium" name="Cherax Premium" version="2.25" enabled="1" defaultAccess="0" show="1"></cheat>
-    <cheat index="2" urlExt="CheraxBeta" name="Cherax Beta" version="2.25" enabled="1"  defaultAccess="0" show="1"></cheat>
+    <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.24" enabled="1" defaultAccess="1" show="1"></cheat>
+    <cheat index="1" urlExt="CheraxPremium.dll" name="Cherax Premium" version="2.25" enabled="1" defaultAccess="0" show="1"></cheat>
+    <cheat index="2" urlExt="CheraxBeta.dll" name="Cherax Beta" version="2.25" enabled="1"  defaultAccess="0" show="1"></cheat>
   </Cheats>
   <Users>
     <user name="ImCytox" login="17327" hwid="7237" blocked="0" premium="1" beta="1"></user>

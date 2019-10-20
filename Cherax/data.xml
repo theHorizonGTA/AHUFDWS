@@ -9,7 +9,7 @@
     <cheat name="Cherax Beta" version="2.25" enabled="1"></cheat>
   </Cheats>
   <Users server="1" status="1">
-    <user name="ImCytox" blocked="0" premium="1" beta="1"></user>
-    <user name="Marc" blocked="0" premium="1" beta="1"></user>
+    <user name="ImCytox" login="17327" hwid="7237" blocked="0" premium="1" beta="1"></user>
+    <user name="Marc" login="17327" hwid="7237" blocked="0" premium="1" beta="1"></user>
   </Users>
 </Data>

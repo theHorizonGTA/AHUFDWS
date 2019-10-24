@@ -20,14 +20,14 @@ Updated Cherax loader to 2.0:
     <Text wrappos="250" log="Cherax Premium offers you many advantages which can only be bought. Therefore you need to create an account and send the asociated data together with your payment. To purchase you can contact us easily on Discord."></Text>
   </Descriptions>
   <Cheats premiumID="1" betaID="2">
-    <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.24" enabled="1" defaultAccess="1" show="1"></cheat>
-    <cheat index="1" urlExt="CheraxPremium.dll" name="Cherax Premium" version="2.25" enabled="0" defaultAccess="0" show="1"></cheat>
-    <cheat index="2" urlExt="CheraxBeta.dll" name="Cherax Beta" version="2.25" enabled="0" defaultAccess="0" show="1"></cheat>
+    <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.24" enabled="1" defaultAccess="2732532" show="1"></cheat>
+    <cheat index="1" urlExt="CheraxPremium.dll" name="Cherax Premium" version="2.25" enabled="0" defaultAccess="1526327" show="1"></cheat>
+    <cheat index="2" urlExt="CheraxBeta.dll" name="Cherax Beta" version="2.25" enabled="0" defaultAccess="7353423" show="1"></cheat>
   </Cheats>
   <Users>
-    <user name="ImCytox" discord="ImCytox#9129" block="0" premiumAccess="3470" betaAccess="3470" premium="1" beta="1" joinDate="August 1st, 2002." login="2324967069466166842" hwid="10918824521503953889" ></user>
-    <user name="mar_cac" discord="mar_cac#0001" block="0" premium="1" beta="1" joinDate="September 6th, 1337." login="12620602951168602808" hwid="9795343701226276836"></user>
-    <user name="ToshiT" discord="Toshiro#3045" block="0" premium="1" beta="1" joinDate="October 22nd, 2019." login="583159956458367191" hwid="14123221102325933076"></user>
+    <user name="ImCytox" discord="ImCytox#9129" block="0" premium="1591" beta="1591" joinDate="August 1st, 2002." login="2324967069466166842" hwid="10918824521503953889" ></user>
+    <user name="mar_cac" discord="mar_cac#0001" block="0" premium="32759" beta="32759" joinDate="September 6th, 1337." login="12620602951168602808" hwid="9795343701226276836"></user>
+    <user name="ToshiT" discord="Toshiro#3045" block="0" premium="481" beta="481" joinDate="October 22nd, 2019." login="583159956458367191" hwid="14123221102325933076"></user>
     <user name="syslgame" discord="syslgame#2145" block="0" premium="1" beta="1" joinDate="October 23rd, 2019." login="17845331927339088660" hwid="2172395469522303800"></user>
     <user name="Z3R0" discord="Z3R0#8455" block="0" premium="1" beta="1" joinDate="October 23rd, 2019." login="10828656227042361380" hwid="1573366374247486663"></user>
     <user name="GhostRider584" discord="|Ghost|#0001" block="0" premium="1" beta="1" joinDate="October 23rd, 2019." login="14150086835035090195" hwid="2343953039897946926"></user>

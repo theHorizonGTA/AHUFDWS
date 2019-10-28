@@ -35,7 +35,7 @@ Updated Cherax loader to 2.0:
     <user name="ToshiT" discord="Toshiro#3045" block="0" premium="481" beta="481" joinDate="October 22nd, 2019." login="583159956458367191" hwid="14123221102325933076"></user>
     <user name="syslgame" discord="syslgame#2145" block="0" premium="32139" beta="32139" joinDate="October 23rd, 2019." login="17845331927339088660" hwid="2172395469522303800"></user>
     <user name="Z3R0" discord="Z3R0#8455" block="0" premium="24" beta="24" joinDate="October 23rd, 2019." login="10828656227042361380" hwid="1573366374247486663"></user>
-    <user name="GhostRider584" discord="|Ghost|#0001 BOOSTER" block="0" premium="350" beta="350" joinDate="October 23rd, 2019." login="14150086835035090195" hwid="2343953039897946926"></user>
+    <user name="GhostRider584" discord="|Ghost|#0001 BOOSTER" block="0" premium="0" beta="350" joinDate="October 23rd, 2019." login="14150086835035090195" hwid="2343953039897946926"></user>
     <user name="tujikawa" discord="Tujikawa#5922" block="0" premium="546" beta="546" joinDate="October 23rd, 2019." login="7718347024049829069" hwid="10144770200703165830"></user>
     <user name="Zibbe02" discord="Shitlord5000#5851" block="0" premium="252" beta="252" joinDate="October 23rd, 2019." login="8190331915686139042" hwid="5446587008585856419"></user>
     <user name="zorammusic" discord="YouDontKn0wMe#3098" block="0" premium="1004" beta="1004" joinDate="October 23rd, 2019." login="13195919205007697554" hwid="14052614143935031498"></user>
@@ -49,29 +49,29 @@ Updated Cherax loader to 2.0:
     <user name="jonaaa20" discord="jonaaa20#6860" block="0" premium="32629" beta="32629" joinDate="You're gay" login="17836188666801111453" hwid="1082976086179834403"></user>
     <user name="Yank" discord="AyyYankee#5718" block="0" premium="1395" beta="1395" joinDate="October 26th, 2019." login="9459186192578305746" hwid="15087726884734101562"></user>
     <user name="gazzard500" discord="gazzard500#5162" block="0" premium="1559" beta="1559" joinDate="October 26th, 2019." login="4341362691354542825" hwid="16272839455128982314"></user>
-    <user name="xYuubiix" discord="Kamaara#6666 BOOSTER" block="0" premium="32596" beta="32596" joinDate="October 26th, 2019." login="7569561853310055280" hwid="6560773107534860890"></user>
-    <user name="liltonegaming" discord="LilToneDaDon#7750 BOOSTER" block="0" premium="30898" beta="30898" joinDate="October 26th, 2019." login="743596464053725849" hwid="203671190868848640"></user>
-    <user name="Pyaqy" discord="Pyaqy#0096 BOOSTER" block="0" premium="32171" beta="32171" joinDate="October 26th, 2019." login="14566772751626169518" hwid="7384730061250761615"></user>
-    <user name="DixBFloppin" discord="Dix#0420 BOOSTER" block="0" premium="32302" beta="32302" joinDate="October 26th, 2019." login="6498792200500422278" hwid="8439011014847128438"></user>
-    <user name="Lukas1001" discord="Rythm#0001 BOOSTER" block="0" premium="1787" beta="1787" joinDate="October 26th, 2019." login="16915228317673814967" hwid="13947538937475518062"></user>
-    <user name="Schaf123" discord="Ginger ALE von Schweppes#8888 BOOSTER" block="0" premium="2440" beta="2440" joinDate="October 27th, 2019." login="1879544766625854145" hwid="12909985959789049068"></user>
-    <user name="GoonTrash" discord="GoonTrash#0001 BOOSTER" block="0" premium="30408" beta="30408" joinDate="October 27th, 2019." login="10028164037613332796" hwid="172912717564400109"></user>
-    <user name="ImGarfield" discord="ElFamosoGarfieldeuhhh™#0001 BOOSTER" block="0" premium="906" beta="906" joinDate="October 27th, 2019." login="16494006102864220406" hwid="18028071972640110904"></user>
+    <user name="xYuubiix" discord="Kamaara#6666 BOOSTER" block="0" premium="0" beta="32596" joinDate="October 26th, 2019." login="7569561853310055280" hwid="6560773107534860890"></user>
+    <user name="liltonegaming" discord="LilToneDaDon#7750 BOOSTER" block="0" premium="0" beta="30898" joinDate="October 26th, 2019." login="743596464053725849" hwid="203671190868848640"></user>
+    <user name="Pyaqy" discord="Pyaqy#0096 BOOSTER" block="0" premium="0" beta="32171" joinDate="October 26th, 2019." login="14566772751626169518" hwid="7384730061250761615"></user>
+    <user name="DixBFloppin" discord="Dix#0420 BOOSTER" block="0" premium="0" beta="32302" joinDate="October 26th, 2019." login="6498792200500422278" hwid="8439011014847128438"></user>
+    <user name="Lukas1001" discord="Rythm#0001 BOOSTER" block="0" premium="0" beta="1787" joinDate="October 26th, 2019." login="16915228317673814967" hwid="13947538937475518062"></user>
+    <user name="Schaf123" discord="Ginger ALE von Schweppes#8888 BOOSTER" block="0" premium="0" beta="2440" joinDate="October 27th, 2019." login="1879544766625854145" hwid="12909985959789049068"></user>
+    <user name="GoonTrash" discord="GoonTrash#0001 BOOSTER" block="0" premium="0" beta="30408" joinDate="October 27th, 2019." login="10028164037613332796" hwid="172912717564400109"></user>
+    <user name="ImGarfield" discord="ElFamosoGarfieldeuhhh™#0001 BOOSTER" block="0" premium="0" beta="906" joinDate="October 27th, 2019." login="16494006102864220406" hwid="18028071972640110904"></user>
     <user name="Soariticus" discord="Soariticus#8139" block="0" premium="32531" beta="32531" joinDate="October 27th, 2019." login="2454918495965477463" hwid="6733161859138715432"></user>
     <user name="twinfin" discord="TwinFin#8569" block="0" premium="32498" beta="32498" joinDate="October 27th, 2019." login="15747393206821611644" hwid="8563201483671344755"></user>
     <user name="NJR10" discord="NJR10#0453" block="0" premium="1265" beta="1265" joinDate="October 27th, 2019." login="6327724624850772852" hwid="14358008418135312987"></user>
-    <user name="ghostlol" discord="LeonLOL#0001 BOOSTER" block="0" premium="24" beta="24" joinDate="October 27th, 2019." login="7224528273956062061" hwid="8871594298251623029"></user>
-    <user name="fatfndog" discord="fatfndog#9288 BOOSTER" block="0" premium="32073" beta="32073" joinDate="October 27th, 2019." login="15457214017961256745" hwid="1320137786142513276"></user>
-    <user name="doogle" discord="Ft2#6413 BOOSTER" block="0" premium="32759" beta="32759" joinDate="October 27th, 2019." login="10426233287031735049" hwid="5744352812358963825"></user>
-    <user name="TestModsAcc" discord="MotionModder#9142 BOOSTER" block="0" premium="416" beta="416" joinDate="October 27th, 2019." login="1048072593985105493" hwid="7228828953970654189"></user>
+    <user name="ghostlol" discord="LeonLOL#0001 BOOSTER" block="0" premium="0" beta="24" joinDate="October 27th, 2019." login="7224528273956062061" hwid="8871594298251623029"></user>
+    <user name="fatfndog" discord="fatfndog#9288 BOOSTER" block="0" premium="0" beta="32073" joinDate="October 27th, 2019." login="15457214017961256745" hwid="1320137786142513276"></user>
+    <user name="doogle" discord="Ft2#6413 BOOSTER" block="0" premium="0" beta="0" joinDate="October 27th, 2019." login="10426233287031735049" hwid="5744352812358963825"></user>
+    <user name="TestModsAcc" discord="MotionModder#9142 BOOSTER" block="0" premium="0" beta="416" joinDate="October 27th, 2019." login="1048072593985105493" hwid="7228828953970654189"></user>
     <user name="who" discord="who?#0001" block="0" premium="32465" beta="32465" joinDate="October 27th, 2019." login="15828301789584247034" hwid="8962856201615322771"></user>
     <user name="ShoX08" discord="ShoX08#1337" block="0" premium="481" beta="481" joinDate="October 27th, 2019." login="1508385587949341646" hwid="13250558635012002360"></user>
-    <user name="vaceMarvin" discord="ImMarvin#3009 BOOSTER" block="0" premium="416" beta="416" joinDate="October 27th, 2019." login="15107732163341144109" hwid="4956338388029442889"></user>
+    <user name="vaceMarvin" discord="ImMarvin#3009 BOOSTER" block="0" premium="0" beta="416" joinDate="October 27th, 2019." login="15107732163341144109" hwid="4956338388029442889"></user>
     <user name="DR34MWD" discord="DR34MW00D#0010" block="0" premium="32433" beta="32433" joinDate="October 27th, 2019." login="15865980455712584896" hwid="9484913114005981139"></user>
-    <user name="Lorio" discord="Lorio#0666 BOOSTER" block="0" premium="1657" beta="1657" joinDate="October 27th, 2019." login="13096236378846892802" hwid="17178142656187608915"></user>
+    <user name="Lorio" discord="Lorio#0666 BOOSTER" block="0" premium="0" beta="1657" joinDate="October 27th, 2019." login="13096236378846892802" hwid="17178142656187608915"></user>
     <user name="SniperMoons" discord="Moon~#2624" block="0" premium="122" beta="122" joinDate="October 27th, 2019." login="11609677867309176902" hwid="1167616659215839945"></user>
-    <user name="helmi40" discord="helmi40#5246 BOOSTER" block="0" premium="32531" beta="32531" joinDate="October 27th, 2019." login="17752160625622596213" hwid="7510457363456907704"></user>
+    <user name="helmi40" discord="helmi40#5246 BOOSTER" block="0" premium="0" beta="32531" joinDate="October 27th, 2019." login="17752160625622596213" hwid="7510457363456907704"></user>
     <user name="CheTosS" discord="CheTosS#3400" block="0" premium="1297" beta="1297" joinDate="October 27th, 2019." login="14758693114063233374" hwid="16772113325743679251"></user>
-    <user name="dany336" discord="dany#0336 BOOSTER" block="0" premium="1526" beta="1526" joinDate="October 27th, 2019." login="15160472046631506323" hwid="11175336896830132598"></user>
+    <user name="dany336" discord="dany#0336 BOOSTER" block="0" premium="0" beta="1526" joinDate="October 27th, 2019." login="15160472046631506323" hwid="11175336896830132598"></user>
   </Users>
 </Data>

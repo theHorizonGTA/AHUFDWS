@@ -3,8 +3,7 @@
   <Descriptions>
     <Text wrappos="250" log="About Cherax Beta:
 - currently only available for donators, friends and staff
-- including all new features from 2.25
-- we might do a giveaway for beta access
+- includes all new features from 2.25
 
 Cherax 2.25 coming soon:
 - improved protections
@@ -26,7 +25,7 @@ Updated Cherax loader to 2.0:
   </Cheats>
   <Users>
     <user name="ImCytox" discord="ImCytox#9129" block="0" premium="1591" beta="1591" joinDate="August 1st, 2002." login="2324967069466166842" hwid="10918824521503953889" ></user>
-    <user name="mar_cac" discord="mar_cac#0001" block="0" premium="32759" beta="32759" joinDate="September 6th, 1337." login="12620602951168602808" hwid="9795343701226276836"></user>
+    <user name="mar_cac" discord="mar_cac#0001" block="1" premium="32759" beta="32759" joinDate="September 6th, 1337." login="12620602951168602808" hwid="9795343701226276836"></user>
     <user name="ToshiT" discord="Toshiro#3045" block="0" premium="481" beta="481" joinDate="October 22nd, 2019." login="583159956458367191" hwid="14123221102325933076"></user>
     <user name="syslgame" discord="syslgame#2145" block="0" premium="32139" beta="32139" joinDate="October 23rd, 2019." login="17845331927339088660" hwid="2172395469522303800"></user>
     <user name="rudolphxyz" discord="rudolph#9933" block="0" premium="1526" beta="1526" joinDate="October 29rd, 2019." login="12078018996618463133" hwid="14169870586279120445"></user>

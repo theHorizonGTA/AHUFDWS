@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data version="210" server="1" status="1">
   <Descriptions>
-    <Text wrappos="250" log="About Cherax Beta:
+    <Text wrappos="250" log="Cherax has been disabled until we investigate claims about the bans.
+Beta version is fine and can be used without risk of getting banned.                           
+
+About Cherax Beta:
 - currently only available for donators, friends and staff
 - includes all new features from 2.25
 
@@ -19,7 +22,7 @@ Updated Cherax loader to 2.0:
     <Text wrappos="250" log="Cherax Premium offers you many advantages which can only be bought. Therefore you need to create an account and send the asociated data together with your payment. To purchase you can contact us easily on Discord."></Text>
   </Descriptions>
   <Cheats premiumID="1" betaID="2">
-    <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.24" enabled="1" defaultAccess="2732532" show="1"></cheat>
+    <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.24" enabled="0" defaultAccess="2732532" show="1"></cheat>
     <cheat index="1" urlExt="CheraxPremium.dll" name="Cherax Premium" version="2.25" enabled="0" defaultAccess="0" show="1"></cheat>
     <cheat index="2" urlExt="CheraxBeta.dll" name="Cherax Beta" version="2.25" enabled="1" defaultAccess="0" show="1"></cheat>
   </Cheats>

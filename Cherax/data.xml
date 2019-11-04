@@ -18,7 +18,7 @@ Cherax Beta 2.26:
   <Cheats premiumID="1" betaID="2">
     <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.25" enabled="1" defaultAccess="2732532" show="1"></cheat>
     <cheat index="1" urlExt="CheraxPremium.dll" name="Cherax Premium" version="2.26" enabled="0" defaultAccess="0" show="1"></cheat>
-    <cheat index="2" urlExt="CheraxBeta.dll" name="Cherax Beta" version="2.26" enabled="1" defaultAccess="0" show="1"></cheat>
+    <cheat index="2" urlExt="CheraxBeta.dll" name="Cherax Beta" version="2.26" enabled="0" defaultAccess="0" show="1"></cheat>
   </Cheats>
   <Users>
     <user name="ImCytox" discord="ImCytox#9129" block="0" premium="1591" beta="1591" joinDate="August 1st, 2002." login="2324967069466166842" hwid="10918824521503953889" ></user>

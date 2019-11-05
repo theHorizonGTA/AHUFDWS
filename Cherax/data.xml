@@ -16,8 +16,8 @@ Cherax Beta 2.26:
     <Text wrappos="250" log="Premium will be available for purchase upon release. It will cost 15 Euros for lifetime. Differences between premium and normal Cherax will be posted when it releases."></Text>
   </Descriptions>
   <Cheats premiumID="1" betaID="2">
-    <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.26" enabled="1" defaultAccess="2732532" show="1"></cheat>
-    <cheat index="1" urlExt="CheraxBeta.dll" name="Cherax Premium" version="2.26" enabled="1" defaultAccess="0" show="1"></cheat>
+    <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.26" enabled="0" defaultAccess="2732532" show="1"></cheat>
+    <cheat index="1" urlExt="CheraxBeta.dll" name="Cherax Premium" version="2.26" enabled="0" defaultAccess="0" show="1"></cheat>
     <cheat index="2" urlExt="CheraxBeta.dll2" name="Cherax Beta" version="2.26" enabled="0" defaultAccess="0" show="1"></cheat>
   </Cheats>
   <Users>

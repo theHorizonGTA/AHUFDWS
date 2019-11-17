@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data version="220" server="1" status="1">
   <Descriptions>
-    <Text wrappos="250" log="Beta/Premium users have access to the latest version. Its currently testing"></Text>
+    <Text wrappos="250" log="Cherax has been silently rereleased. Feel free to use it.
+Happy cheating"></Text>
     <Text wrappos="250" log="Premium will be available for purchase upon release. It will cost 15 Euros for lifetime. Differences between premium and normal Cherax will be posted when it releases."></Text>
   </Descriptions>
   <Cheats premiumID="1" betaID="2">

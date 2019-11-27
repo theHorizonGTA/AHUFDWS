@@ -8,7 +8,7 @@
   <Cheats premiumID="1" betaID="2">
     <cheat index="0" urlExt="Cherax.dll" name="Cherax" version="2.27" enabled="1" defaultAccess="2732532" show="1"></cheat>
     <cheat index="1" urlExt="CheraxBeta.dll2" name="Cherax Premium" version="2.26" enabled="0" defaultAccess="0" show="1"></cheat>
-    <cheat index="2" urlExt="CheraxBeta.dll" name="Cherax Beta" version="2.26" enabled="0" defaultAccess="0" show="1"></cheat>
+    <cheat index="2" urlExt="CheraxBeta.dll" name="Cherax Beta" version="2.28" enabled="1" defaultAccess="0" show="1"></cheat>
   </Cheats>
   <Users>
     <user name="ImCytox" discord="ImCytox#9129" block="0" premium="1591" beta="1591" joinDate="August 1st, 2002." login="2324967069466166842" hwid="10918824521503953889" ></user>
@@ -33,6 +33,7 @@
     <user name="Yank" discord="AyyYankee#5718" block="0" premium="1395" beta="1395" joinDate="October 26th, 2019." login="9459186192578305746" hwid="15087726884734101562"></user>
     <user name="gazzard500" discord="gazzard500#5162" block="0" premium="1559" beta="1559" joinDate="October 26th, 2019." login="4341362691354542825" hwid="16272839455128982314"></user>
     <user name="rare" discord="Rare#1802" block="0" premium="32041" beta="32041" joinDate="November 23th, 2019." login="11697423946527187028" hwid="1941152506375173440"></user>
+    <user name="tobtaq" discord="tobtaq#5710" block="0" premium="2244" beta="2244" joinDate="November 27th, 2019." login="14166181598016743891" hwid="11596756899663519267"></user>
     <user name="xYuubiix" discord="Kamaara#6666 BOOSTER" block="0" premium="0" beta="32596" joinDate="October 26th, 2019." login="7569561853310055280" hwid="6560773107534860890"></user>
     <user name="liltonegaming" discord="LilToneDaDon#7750 BOOSTER" block="0" premium="0" beta="30898" joinDate="October 26th, 2019." login="743596464053725849" hwid="203671190868848640"></user>
     <user name="Pyaqy" discord="Pyaqy#0096 BOOSTER" block="0" premium="0" beta="32171" joinDate="October 26th, 2019." login="14566772751626169518" hwid="7384730061250761615"></user>
